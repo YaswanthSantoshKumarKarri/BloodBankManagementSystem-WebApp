@@ -1,0 +1,14 @@
+.blockquote-footer{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+
+.d-flex{
+    float: right;
+    font-family:'Times New Roman', Times, serif;
+    color:'brown' !important;
+    margin-left: 12rem;
+    padding-left: 0%;
+}

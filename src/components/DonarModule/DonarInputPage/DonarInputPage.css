@@ -1,0 +1,44 @@
+/* input{
+    border:none;
+    box-shadow:0px 0px 10px rgba(67,65,65,.4);
+    font-size:1.2rem;
+    outline:none;
+    padding:10px;
+    margin:20px;
+    border-radius:10px;
+}
+
+input:focus{
+    text-decoration:none;
+}
+
+input:focus-within{
+    border:2px solid var(--orange);
+}
+
+d-wrapper{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    background-color: transparent;
+} */
+
+
+.search-msg{
+  text-align:center;
+    
+}
+
+.search-msg > img{
+    width:200px;
+    height:200px;
+}
+
+.search-msg > span{
+    font-weight:900;
+    color:var(--gray);
+}
+p{
+    font-size: 15px;
+}
